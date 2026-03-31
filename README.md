@@ -117,13 +117,6 @@ Superstore-Business-Intelligence-Project/
 
 ---
 
-## 📉 ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswiniSarvanan53-Bot&theme=react-dark"/>
-</p>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -131,7 +124,7 @@ Superstore-Business-Intelligence-Project/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswiniSarvanan53-Bot&theme=tokyonight" />
 </p>
 
----
+
 
 
 ## 👨‍💻 ✨ Author
