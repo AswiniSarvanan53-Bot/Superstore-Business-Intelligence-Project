@@ -142,7 +142,10 @@ Superstore-Business-Intelligence-Project/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AswiniSarvanan53-Bot&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswiniSarvanan53-Bot&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AswiniSarvanan53-Bot&theme=tokyonight" />
 </p>
 
 ---
