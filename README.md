@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Superstore Business Intelligence Project</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=End-to-End+Data+Analytics+Project;Retail+Sales+Analysis;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Business+Insights&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=End-to-End+Data+Analytics+Project;Retail+Sales+Analysis;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Business+Insights&center=true&width=650&height=50">
 </p>
 
 <p align="center">
@@ -138,13 +138,6 @@ Superstore-Business-Intelligence-Project/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AswiniSarvanan53-Bot&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 👨‍💻 Author
 
