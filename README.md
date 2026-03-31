@@ -1,46 +1,36 @@
-<h1 align="center">🚀✨ Superstore Business Intelligence Project ✨🚀</h1>
+<h1 align="center">🚀 Superstore Business Intelligence Project</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Welcome+to+My+Data+Project!;📊+Retail+Sales+Analysis;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Turning+Data+into+Insights;🚀+End-to-End+Analytics+Project&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=End-to-End+Data+Analytics+Project;Retail+Sales+Analysis;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Business+Insights&center=true&width=650&height=45">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AswiniSarvanan53-Bot&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-## 🏷️ Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-green?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi">
-  <img src="https://img.shields.io/badge/Project-Business%20Intelligence-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
 </p>
 
 ---
 
-<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+## 📊 Overview
 
-## 📌 🌟 Overview
-This project focuses on analyzing a retail dataset to uncover **sales trends, profitability insights, and customer behavior**.  
-
-It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and Power BI.
+This project analyzes a retail dataset to uncover **sales trends, profitability insights, and customer behavior**.  
+It demonstrates a complete **end-to-end data analytics pipeline** using Python, SQL, and Power BI.
 
 ---
 
-## 🎯 🚀 Project Goal
+## 🎯 Project Goals
+
 - Analyze overall business performance  
-- Identify **sales trends and patterns**  
-- Detect **profitability issues**  
-- Find **top customers**  
-- Understand **discount impact on profit**  
+- Identify sales trends and patterns  
+- Detect profitability issues  
+- Identify top customers  
+- Understand discount impact on profit  
 
 ---
 
-## 🛠️ ⚙️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |------|--------|
@@ -50,26 +40,24 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-<p align="center">✨━━━━━━━━━━━━━━━✨</p>
-
-## 🔧 💼 What I Did
+## ⚙️ Work Done
 
 ### 🧹 Data Processing (Python)
-- Handling missing values  
+- Missing value handling  
 - Date conversion  
-- Feature Engineering:
-  - 📦 Delivery Days  
-  - 💰 Profit Margin  
-  - 📅 Year & Month Extraction  
-- Exploratory Data Analysis (EDA)  
+- Feature engineering:
+  - Delivery Days  
+  - Profit Margin  
+  - Year & Month extraction  
+- Exploratory Data Analysis (EDA)
 
 ### 🗄️ SQL Analysis
-- Aggregations (`SUM`, `AVG`)  
-- `GROUP BY` operations  
+- Aggregations (SUM, AVG)  
+- GROUP BY operations  
 - Filtering & sorting  
-- Top 10 customers analysis  
+- Top customers analysis  
 
-### 📊 Dashboard Development (Power BI)
+### 📊 Dashboard (Power BI)
 - KPI Cards (Sales, Profit, Orders)  
 - Monthly Sales Trend  
 - Sales by Category  
@@ -80,47 +68,34 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-<p align="center">✨━━━━━━━━━━━━━━━✨</p>
-
-## 📊✨ Dashboard Preview
+## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="supermarket sales prediction.png" width="850">
+  <img src="supermarket sales prediction.png" width="900">
 </p>
 
 ---
 
-## 🔍 🚀 Key Insights
+## 🔍 Key Insights
 
-- 📉 High discounts reduce profitability  
+- 📉 Higher discounts reduce profitability  
 - 👥 Small group of customers drives major revenue  
-- 📊 Technology category performs best  
+- 📊 Technology category generates highest sales  
 - ⚠️ Some sub-categories are loss-making  
 
 ---
 
-## 🚀🔥 Project Highlights
+## 💼 Business Impact
 
-✔ End-to-End Data Analysis  
-✔ Real-world Business Problem  
-✔ Interactive Dashboard  
-✔ Data-Driven Insights  
-✔ Clean & Structured Pipeline  
-
----
-
-## 🎤 💡 Interview Ready Points
-
-- Explained impact of discounts on profit  
-- Identified top revenue-generating customers  
-- Built KPI-based dashboard for decision-making  
-- Combined Python + SQL for efficient analysis  
+- Improves discount strategy decisions  
+- Identifies high-performing products  
+- Supports data-driven business decisions  
+- Enhances overall profitability  
 
 ---
 
-<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+## 📁 Project Structure
 
-## 📁 📂 Project Structure
 
 ```
 Superstore-Business-Intelligence-Project/
@@ -133,14 +108,12 @@ Superstore-Business-Intelligence-Project/
 └── supermarket sales prediction.png
 ```
 
----
+## 💡 Key Contributions
 
-## 📊 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswiniSarvanan53-Bot&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswiniSarvanan53-Bot&theme=tokyonight" />
-</p>
+- Analyzed impact of discount strategies on profitability  
+- Identified top revenue-generating customers  
+- Designed KPI-driven Power BI dashboard  
+- Built end-to-end data pipeline using Python and SQL  
 
 ---
 
@@ -151,32 +124,17 @@ Superstore-Business-Intelligence-Project/
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 🚀 💼 Business Impact
-- Helps optimize **discount strategies**  
-- Identifies **top-performing products**  
-- Supports **data-driven decision making**  
-- Improves overall **business profitability**  
-
----
-
-## 🧠 📚 Learnings
-- End-to-end data analysis pipeline  
-- Python + SQL integration  
-- Dashboard storytelling  
-- Real-world business insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswiniSarvanan53-Bot&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswiniSarvanan53-Bot&theme=tokyonight" />
+</p>
 
 ---
+
 
 ## 👨‍💻 ✨ Author
-**Aswini Saravanan**
+**Aswini S**
 
 ---
-
-<p align="center">
-  ⭐ If you like this project, give it a star! ⭐  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="400"/>
-</p>
