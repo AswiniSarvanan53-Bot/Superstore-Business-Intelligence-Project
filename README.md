@@ -1,8 +1,16 @@
-<h1 align="center">🚀 Superstore Business Intelligence Project</h1>
+<h1 align="center">🚀✨ Superstore Business Intelligence Project ✨🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Welcome+to+My+Data+Project!;📊+Retail+Sales+Analysis;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Turning+Data+into+Insights;🚀+End-to-End+Analytics+Project&center=true&width=600&height=45">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AswiniSarvanan53-Bot&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## 🏷️ Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python">
@@ -14,14 +22,16 @@
 
 ---
 
-## 🌟 Overview
+<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+
+## 📌 🌟 Overview
 This project focuses on analyzing a retail dataset to uncover **sales trends, profitability insights, and customer behavior**.  
 
 It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and Power BI.
 
 ---
 
-## 🎯 Project Goal
+## 🎯 🚀 Project Goal
 - Analyze overall business performance  
 - Identify **sales trends and patterns**  
 - Detect **profitability issues**  
@@ -30,7 +40,7 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ ⚙️ Tools & Technologies
 
 | Tool | Purpose |
 |------|--------|
@@ -40,7 +50,9 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-## ⚙️ What I Did
+<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+
+## 🔧 💼 What I Did
 
 ### 🧹 Data Processing (Python)
 - Handling missing values  
@@ -68,7 +80,9 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-## 📊 Dashboard Preview
+<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+
+## 📊✨ Dashboard Preview
 
 <p align="center">
   <img src="supermarket sales prediction.png" width="850">
@@ -76,7 +90,7 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-## 🔍 Key Insights
+## 🔍 🚀 Key Insights
 
 - 📉 High discounts reduce profitability  
 - 👥 Small group of customers drives major revenue  
@@ -85,7 +99,28 @@ It demonstrates an **end-to-end data analysis workflow** using Python, SQL, and 
 
 ---
 
-## 📁 Project Structure
+## 🚀🔥 Project Highlights
+
+✔ End-to-End Data Analysis  
+✔ Real-world Business Problem  
+✔ Interactive Dashboard  
+✔ Data-Driven Insights  
+✔ Clean & Structured Pipeline  
+
+---
+
+## 🎤 💡 Interview Ready Points
+
+- Explained impact of discounts on profit  
+- Identified top revenue-generating customers  
+- Built KPI-based dashboard for decision-making  
+- Combined Python + SQL for efficient analysis  
+
+---
+
+<p align="center">✨━━━━━━━━━━━━━━━✨</p>
+
+## 📁 📂 Project Structure
 
 ```
 Superstore-Business-Intelligence-Project/
@@ -100,7 +135,24 @@ Superstore-Business-Intelligence-Project/
 
 ---
 
-## 🚀 Business Impact
+## 📊 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswiniSarvanan53-Bot&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswiniSarvanan53-Bot&theme=tokyonight" />
+</p>
+
+---
+
+## 📉 ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswiniSarvanan53-Bot&theme=react-dark"/>
+</p>
+
+---
+
+## 🚀 💼 Business Impact
 - Helps optimize **discount strategies**  
 - Identifies **top-performing products**  
 - Supports **data-driven decision making**  
@@ -108,7 +160,7 @@ Superstore-Business-Intelligence-Project/
 
 ---
 
-## 🧠 Learnings
+## 🧠 📚 Learnings
 - End-to-end data analysis pipeline  
 - Python + SQL integration  
 - Dashboard storytelling  
@@ -116,11 +168,15 @@ Superstore-Business-Intelligence-Project/
 
 ---
 
-## 👨‍💻 Author
-**Aswini S**
+## 👨‍💻 ✨ Author
+**Aswini Saravanan**
 
 ---
 
 <p align="center">
   ⭐ If you like this project, give it a star! ⭐  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="400"/>
 </p>
